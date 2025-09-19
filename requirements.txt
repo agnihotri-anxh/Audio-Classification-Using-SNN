@@ -1,0 +1,11 @@
+librosa
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+tqdm
+resampy
+soundfile
+torchinfo
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu129
