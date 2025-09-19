@@ -25,6 +25,8 @@ All code is in `Claasification.ipynb`. Key hyperparameters:
 Run the notebook cells to extract features, encode spikes, train, and evaluate.
 
 ## Results
+- Best Train Accuracy : **68.37%**
+- Best Validation Accuracy : **65.31%** 
 - Final Test Accuracy: **63.19%**
 - Macro ROC-AUC: **0.817**
 - Micro ROC-AUC: **0.837**
