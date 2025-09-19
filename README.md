@@ -37,8 +37,10 @@ Training/validation curves are produced by the notebook:
 - Loss vs Epochs
 
 If you save figures during training, place them under `assets/` and reference here:
-- `assets/accuracy_curve.png`
-- `assets/loss_curve.png`
+- `assets/accuracy_curve`
+- `assets/loss_curve`
+- <img width="996" height="470" alt="image" src="https://github.com/user-attachments/assets/b6f1d2b4-f89c-4a9a-99d2-9790efae11dd" />
+
 
 ## Confusion Matrix & ROC-AUC
 The notebook also renders a confusion matrix and multiclass ROC curves for per-class AUC and micro-average AUC.
